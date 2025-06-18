@@ -1,216 +1,165 @@
-# 2025 Boys 1A - First Team
+# 2025 Girls 1A - First Team
 
-| Name                     | School               | Grade  | Position   |
-| ------------------------ | -------------------- | ------ | ---------- |
-| Kyle Irwin               | St. Albert           | Junior | Forward    |
-| Laird Holden             | Regina Catholic      | Junior | Forward    |
-| Jonathon Flores Topete   | West Sioux           | Junior | Forward    |
-| Henry Lounsbury          | Van Meter            | Junior | Forward    |
-| Uriel Andrade-Martinez   | West Liberty         | Junior | Midfield   |
-| Evan White               | Regina Catholic      | Junior | Midfield   |
-| Lance Ludens             | Mediapolis           | Senior | Midfield   |
-| Caleb Moore              | Van Meter            | Senior | Midfield   |
-| Tanquilino Flores Topete | West Sioux           | Senior | Defense    |
-| Javier Andrade-Martinez  | West Liberty         | Senior | Defense    |
-| Adlai Lounsbury          | Van Meter            | Senior | Defense    |
-| Kyler White              | North Fayette Valley | Senior | Defense    |
-| Dannie Holtz             | St. Albert           | Senior | Goalkeeper |
+| Name             | School               | Grade     | Position   |
+| ---------------- | -------------------- | --------- | ---------- |
+| Lauren Seres     | Hudson               | Senior    | Goalkeeper |
+| Camryn Menke     | Assumption           | Junior    | Defense    |
+| Taylor Pyle      | Gilbert              | Senior    | Defense    |
+| Heather Jondle   | Assumption           | Senior    | Defense    |
+| Miranda Thurm    | Denver               | Senior    | Defense    |
+| Eleanor Coughlin | St. Albert           | Sophomore | Midfield   |
+| Addy Oetker      | Des Moines Christian | Junior    | Midfield   |
+| Alyssa Harberts  | Denver               | Senior    | Midfield   |
+| Emily Bowe       | Center Point-Urbana  | Senior    | Midfield   |
+| Avery Anderson   | Nevada               | Senior    | Forward    |
+| Morgan Crees     | Panorama             | Junior    | Forward    |
+| Trelyn White     | Bishop Heelan        | Senior    | Forward    |
+| Tieler Hull      | Underwood            | Senior    | Forward    |
 
-# 2025 Boys 1A - Second Team
+# 2025 Girls 1A - Second Team
 
-| Name               | School                  | Grade     | Position   |
-| ------------------ | ----------------------- | --------- | ---------- |
-| Oscar Robles       | West Sioux              | Sophomore | Forward    |
-| Ethan Van Arendonk | Pella Christian         | Senior    | Forward    |
-| Brody Schupbach    | North Fayette Valley    | Senior    | Forward    |
-| Andrew Langham     | Hudson                  | Senior    | Forward    |
-| Trajan Rummel      | West Central Valley     | Junior    | Midfield   |
-| Tommy Kelly        | Van Meter               | Junior    | Midfield   |
-| Melvin Martin      | Postville               | Senior    | Midfield   |
-| AJ Fuentes         | Garner Hayfield Ventura | Sophomore | Midfield   |
-| Max Goltl          | St. Albert              | Senior    | Defense    |
-| Decklyn Heins      | North Fayette Valley    | Senior    | Defense    |
-| Ethan Beard        | Regina Catholic         | Junior    | Defense    |
-| Drew Greve         | Regina Catholic         | Junior    | Defense    |
-| Drew Sundine       | Hudson                  | Senior    | Goalkeeper |
+| Name              | School                | Grade           | Position   |
+| ----------------- | --------------------- | --------------- | ---------- |
+| Abby Lee          | Bishop Heelan         | Senior          | Goalkeeper |
+| Claudia Lavariega | Bishop Heelan         | Senior          | Defense    |
+| Evelyn Anderson   | Nevada                | Senior          | Defense    |
+| Clara Box         | Mediapolis            | Junior          | Defense    |
+| Shelby Arkulari   | Aplington-Parkersburg | Sophomore       | Defense    |
+| Jozie Payne       | Tri-Center            | Sophomore       | Defense    |
+| Addison Price     | Des Moines Christian  | Junior          | Midfield   |
+| Bailey Mullihan   | Denver                | Junior Midfield |
+| Keira Gehrke      | Denver                | Senior          | Midfield   |
+| Lola Paulson      | Underwood             | Senior          | Midfield   |
+| Cierra Pudenz     | Kuemper Catholic      | Junior          | Forward    |
+| Taylor Davis      | Hudson                | Sophomore       | Forward    |
+| Dru Dorsey        | Assumption            | Senior          | Forward    |
 
-# 2025 Boys 1A - Honorable Mention
+# 2025 Girls 1A - Honorable Mention
 
-| Name               | School               | Grade     | Position   |
-| ------------------ | -------------------- | --------- | ---------- |
-| Lincoln Aeschliman | North Fayette Valley | Senior    | Forward    |
-| Ben Krohn          | St. Albert           | Sophomore | Forward    |
-| Theo Hugen         | Pella Christian      | Senior    | Forward    |
-| Brennan Obbink     | Unity Christian      | Junior    | Forward    |
-| Luis Huerta        | West Central Valley  | Freshman  | Midfield   |
-| Aidan Carlson      | Western Christian    | Senior    | Midfield   |
-| Asa Byl            | Unity Christian      | Senior    | Midfield   |
-| Jayson Johnson     | Tipton               | Senior    | Midfield   |
-| Aiden Clauson      | West Central Valley  | Junior    | Defense    |
-| Traevin Van Beek   | Unity Christian      | Senior    | Defense    |
-| Lane Maassen       | Western Christian    | Senior    | Defense    |
-| Jacob Culham       | Hudson               | Junior    | Defense    |
-| Gabe Gerling       | West Central Valley  | Junior    | Goalkeeper |
+| Name             | School               | Grade     | Position   |
+| ---------------- | -------------------- | --------- | ---------- |
+| Alyssa O'Neal    | Assumption           | Senior    | Goalkeeper |
+| Payton Libolt    | Center Point-Urbana  | Senior    | Defense    |
+| Sadie Burke      | Vinton-Shellsburg    | Senior    | Defense    |
+| Silvie Hendricks | Solon                | Senior    | Defense    |
+| Ava Jerkins      | Des Moines Christian | Sophomore | Goalkeeper |
+| Reese Bleeker    | Bishop Heelan        | Junior    | Midfield   |
+| Elena Swan       | Solon                | Senior    | Midfield   |
+| Hayley Stangl    | Underwood            | Senior    | Midfield   |
+| Meadow Lane      | Colfax-Mingo         | Freshman  | Forward    |
+| Anna Saltzman    | Gilbert              | Senior    | Forward    |
+| Ansley Trunck    | Hudson               | Senior    | Forward    |
+| Aubrey DeShaw    | MOC-Floyd Valley     | Senior    | Forward    |
 
-# 2025 Boys 2A - First Team
+# 2025 Girls 2A - First Team
 
-| Name               | School        | Grade     | Position   |
-| ------------------ | ------------- | --------- | ---------- |
-| Max Magana         | Knoxville     | Senior    | Defense    |
-| Logan Harswick     | Gilbert       | Junior    | Defense    |
-| Cesar DeLeon       | Bishop Heelan | Senior    | Defense    |
-| Anthony Trotta     | Xavier        | Sophomore | Defense    |
-| Vincent D'Amico    | Xavier        | Senior    | Forward    |
-| Sergio Mijangos    | Bishop Heelan | Senior    | Forward    |
-| Tyler Holtan       | Gilbert       | Senior    | Forward    |
-| Eddy Fuentes-Cruz  | Webster City  | Senior    | Forward    |
-| Jean Ngoma         | Xavier        | Senior    | Goalkeeper |
-| Andres Gonzalez    | Bishop Heelan | Senior    | Midfield   |
-| Will Dybvig        | Xavier        | Junior    | Midfield   |
-| Mason Eggleston    | Williamsburg  | Senior    | Midfield   |
-| Jacobo Cerna-Gomez | Perry         | Junior    | Midfield   |
+| Name              | School                   | Grade     | Position   |
+| ----------------- | ------------------------ | --------- | ---------- |
+| Makena Kramer     | Council Bluffs Jefferson | Senior    | Midfield   |
+| Audrey Nieman     | Glenwood                 | Senior    | Goalkeeper |
+| Camryn Hosick     | Council Bluffs Jefferson | Senior    | Goalkeeper |
+| Irelynn White     | Lewis Central            | Sophomore | Midfield   |
+| Addison Hoben     | Spencer                  | Senior    | Forward    |
+| Jada Grove        | ADM                      | Senior    | Forward    |
+| Reese Komenda     | Xavier                   | Junior    | Defense    |
+| Maleigh Olmstead  | Xavier                   | Senior    | Defense    |
+| Sydney Bienemann  | Waverly-Shell Rock       | Senior    | Defense    |
+| Tatum Miller      | Norwalk                  | Junior    | Defense    |
+| Addison Lange     | Independence             | Senior    | Midfield   |
+| Addison Ollendike | North Polk               | Senior    | Midfield   |
+| Anaka Ott         | Waverly-Shell Rock       | Junior    | Forward    |
+| Alexa Gill        | Dallas Center-Grimes     | Senior    | Midfield   |
+| Addy Wood         | Norwalk                  | Junior    | Midfield   |
 
-# 2025 Boys 2A - Second Team
+# 2025 Girls 2A - Second Team
 
-| Name                       | School                   | Grade     | Position   |
-| -------------------------- | ------------------------ | --------- | ---------- |
-| Ben Leinhart               | Assumption               | Junior    | Defense    |
-| Peyton Reichter            | Burlington Notre Dame    | Senior    | Defense    |
-| Benjamin RuizLira          | Sioux Center             | Junior    | Defense    |
-| Francisco Ramirez Carmona  | Webster City             | Senior    | Defense    |
-| Alessandro Markomichelakis | Burlington Notre Dame    | Senior    | Forward    |
-| Frederik Skovhus           | Dall Center Point-Urbana | Junior    | Forward    |
-| Cristofer Marquez          | Sioux Center             | Sophomore | Forward    |
-| Luke Welbes                | Wahlert Catholic         | Senior    | Forward    |
-| Landon Block               | Bishop Heelan            | Senior    | Goalkeeper |
-| Tyler Jenkins              | Gilbert                  | Junior    | Goalkeeper |
-| Ty Luhring                 | Aplington-Parkersburg    | Senior    | Midfield   |
-| Dylan Karnes               | Bishop Heelan            | Senior    | Midfield   |
-| William Terrones           | Gilbert                  | Junior    | Midfield   |
-| Ezra Schmidt               | Knoxville                | Senior    | Midfield   |
-| Connor Walsh               | Wahlert Catholic         | Junior    | Midfield   |
+| Name             | School               | Grade     | Position   |
+| ---------------- | -------------------- | --------- | ---------- |
+| Brielle Allmon   | Glenwood             | Junior    | Midfield   |
+| Rylee Renz       | Dallas Center-Grimes | Junior    | Defense    |
+| Addie Ott        | Waverly-Shell Rock   | Junior    | Midfield   |
+| Katie Liedtke    | Norwalk              | Junior    | Goalkeeper |
+| Olivia Albert    | Independence         | Senior    | Forward    |
+| Claire Turner    | Spirit Lake          | Junior    | Forward    |
+| Addison Flinn    | North Polk           | Junior    | Forward    |
+| Hunter Pender    | Burlington           | Senior    | Forward    |
+| Katelyn Allison  | Marion               | Senior    | Defense    |
+| Jada Podey       | North Polk           | Senior    | Defense    |
+| Myah Greubel     | Bondurant-Farrar     | Junior    | Midfield   |
+| Zoey Fuglsang    | Central DeWitt       | Junior    | Forward    |
+| Kennedi Thiessen | North Scott          | Senior    | Midfield   |
+| Emyrson Torsky   | Dallas Center-Grimes | Sophomore | Goalkeeper |
+| Taylor Smith     | Grinnell             | Senior    | Midfield   |
 
-# 2025 Boys 2A - Honorable Mention
+# 2025 Girls 2A - Honorable Mention
 
-| Name              | School                | Grade     | Position   |
-| ----------------- | --------------------- | --------- | ---------- |
-| Max Papish        | Assumption            | Sophomore | Defense    |
-| Landon Mumm       | Des Moines Christian  | Senior    | Defense    |
-| Casen Jahn        | Sioux Center          | Senior    | Defense    |
-| Gabe Newberg      | Bishop Heelan         | Senior    | Forward    |
-| Grant Dunn        | Des Moines Christian  | Senior    | Forward    |
-| Luc Schumacher    | Maquoketa             | Junior    | Forward    |
-| Braysen Doehrmann | Williamsburg          | Senior    | Forward    |
-| Kyle TeStroete    | Sioux Center          | Senior    | Goalkeeper |
-| Jack Hoopes       | Grinnell              | Senior    | Midfield   |
-| Zack Wilke        | Burlington Notre Dame | Senior    | Midfield   |
-| Joe Clement       | Des Moines Christian  | Senior    | Midfield   |
+| Name              | School                   | Grade     | Position   |
+| ----------------- | ------------------------ | --------- | ---------- |
+| Cadence Hochstein | Clear Creek Amana        | Senior    | Defense    |
+| Abby Hargens      | Glenwood                 | Junior    | Midfield   |
+| Lauryn Gwennap    | Council Bluffs Jefferson | Senior    | Defense    |
+| Neela Williamson  | Dallas Center-Grimes     | Senior    | Midfield   |
+| Hadley Wolfe      | Fort Madison             | Junior    | Midfield   |
+| Treah Pender      | Burlington               | Senior    | Goalkeeper |
+| Addyson Phippen   | Vinton-Shellsburg        | Senior    | Midfield   |
+| Briana Shannon    | Pella                    | Senior    | Forward    |
+| Anayahira Bernal  | Denison-Schleswig        | Junior    | Forward    |
+| Clare Nydegger    | Mount Vernon             | Senior    | Forward    |
+| Destiny Flores    | Carlisle                 | Sophomore | Defense    |
+| Alex Hofbauer     | Dallas Center-Grimes     | Senior    | Forward    |
+| Amerie Hall       | Marion                   | Senior    | Midfield   |
 
-# 2025 Boys 3A - First Team
+# 2025 Girls 3A - First Team
 
-| Name             | School                  | Grade     | Position   |
-| ---------------- | ----------------------- | --------- | ---------- |
-| Jonah Sandhoff   | Norwalk                 | Senior    | Defense    |
-| Almin Islamovic  | Dallas Center-Grimes    | Junior    | Defense    |
-| Brock Richardson | ADM                     | Senior    | Defense    |
-| Aaden Troja      | Urbandale               | Sophomore | Defense    |
-| Tavin Ferner     | Norwalk                 | Senior    | Forward    |
-| Colin Mandernach | Dallas Center-Grimes    | Junior    | Forward    |
-| Roman Riggs      | Iowa City Liberty       | Senior    | Forward    |
-| Javier Flores    | Des Moines Hoover       | Senior    | Forward    |
-| Adriene Robles   | Lewis Central           | Junior    | Midfield   |
-| Jacob Klein      | Cedar Rapids Washington | Senior    | Midfield   |
-| Jacob Chickering | Indianola               | Senior    | Midfield   |
-| Cael Orban       | ADM                     | Junior    | Midfield   |
-| Conley Sundblad  | Iowa City Liberty       | Senior    | Goalkeeper |
+| Name                 | School               | Grade     | Position   |
+| -------------------- | -------------------- | --------- | ---------- |
+| Maddison Balashaitis | Ankeny Centennial    | Senior    | Defense    |
+| Stella Braddock      | Waukee               | Junior    | Defense    |
+| Sophie Loeffler      | Ankeny               | Senior    | Defense    |
+| Kate Strickler       | Johnston             | Senior    | Defense    |
+| Abi Roberts          | Linn-Mar             | Senior    | Forward    |
+| Ava Martin           | Ankeny Centennial    | Senior    | Forward    |
+| Josie Jones          | Waukee Northwest     | Senior    | Forward    |
+| Olivia Rotich        | Valley               | Sophomore | Forward    |
+| Lauren Nidey         | Waukee               | Senior    | Goalkeeper |
+| Cora Aiels           | Cedar Rapids Kennedy | Junior    | Midfield   |
+| Alli Macke           | Ankeny               | Senior    | Midfield   |
+| Romey Croatt         | Waukee Northwest     | Sophomore | Midfield   |
+| Aubrey Luck          | Linn-Mar             | Junior    | Midfield   |
+| Ava Hall             | Valley               | Senior    | Midfield   |
 
-# 2025 Boys 3A - Second Team
+# 2025 Girls 3A - Second Team
 
-| Name             | School               | Grade  | Position   |
-| ---------------- | -------------------- | ------ | ---------- |
-| Evan Kinney      | Marion               | Junior | Defense    |
-| Mbelechi Lukala  | Des Moines Hoover    | Junior | Defense    |
-| Will Johnson     | Urbandale            | Junior | Defense    |
-| Jovany Kabongo   | Le Mars              | Senior | Forward    |
-| Bryker Langfald  | Marion               | Junior | Forward    |
-| Allan Martinez   | Indianola            | Senior | Forward    |
-| Tyden Eng        | Norwalk              | Junior | Midfield   |
-| Jojo Amisi       | Indianola            | Senior | Midfield   |
-| Kenan Hajdarevic | Urbandale            | Senior | Midfield   |
-| Malachi Blevins  | North Polk           | Junior | Midfield   |
-| Teegan Kralik    | Norwalk              | Junior | Midfield   |
-| Romeo Alvarez    | Spencer              | Senior | Midfield   |
-| Jaden Mendias    | Dallas Center-Grimes | Senior | Goalkeeper |
+| Name                  | School               | Grade     | Position   |
+| --------------------- | -------------------- | --------- | ---------- |
+| Avery Taylor          | Ankeny               | Junior    | Defense    |
+| Emily Beneke          | Cedar Falls          | Junior    | Defense    |
+| Leah Othmer           | Muscatine            | Senior    | Defense    |
+| Ava Buman             | Southeast Polk       | Junior    | Defense    |
+| Morgan Hospodarksy    | Cedar Rapids Kennedy | Junior    | Forward    |
+| Alex Bitterman        | Muscatine            | Senior    | Forward    |
+| Sophia Pearson        | Southeast Polk       | Sophomore | Forward    |
+| Evelyn Soto-Contreras | Des Moines Lincoln   | Senior    | Forward    |
+| Delaney Ford          | Johnston             | Senior    | Goalkeeper |
+| Callie Stanley        | Iowa City Liberty    | Junior    | Midfield   |
+| Adeline Kroska        | Ankeny Centennial    | Senior    | Midfield   |
+| Dreya Kern            | Linn-Mar             | Junior    | Midfield   |
+| Paz Martinez          | Iowa City West       | Senior    | Midfield   |
 
-# 2025 Boys 3A - Honorable Mention
+# 2025 Girls 3A - Honorable Mention
 
-| Name                | School                  | Grade     | Position   |
-| ------------------- | ----------------------- | --------- | ---------- |
-| Japhet Bongo        | Iowa City Liberty       | Senior    | Forward    |
-| Brady Vreeman       | Spencer                 | Senior    | Defense    |
-| Camden Mosher       | Spencer                 | Junior    | Forward    |
-| Blake Bullerman     | Urbandale               | Junior    | Goalkeeper |
-| Madden Cavan        | Bondurant-Farrar        | Senior    | Midfield   |
-| Asifwe Mwenyeekonbe | Cedar Rapids Washington | Junior    | Midfield   |
-| Landon Anderson     | Dallas Center-Grimes    | Sophomore | Defense    |
-| Raymond Hernandez   | Storm Lake              | Senior    | Forward    |
-| Abner Velasco       | Denison-Schleswig       | Senior    | Midfield   |
-| Tanner Jansen       | North Polk              | Junior    | Defense    |
-| Abdala Ebdala       | Clear Creek Amana       | Senior    | Midfield   |
-| Leo Clemens         | Western Dubuque         | Senior    | Forward    |
-| Colby Krupski       | Marion                  | Senior    | Goalkeeper |
-
-# 2025 Boys 4A - First Team
-
-| Name             | School               | Grade  | Position   |
-| ---------------- | -------------------- | ------ | ---------- |
-| Isaiah LaMark    | Des Moines Roosevelt | Senior | Defender   |
-| Tate Duax Ankeny | Centennial           | Junior | Forward    |
-| Landon Benge     | Ankeny               | Senior | Forward    |
-| Jonathan Mendez  | Dowling Catholic     | Senior | Forward    |
-| Pablo Mendez     | Valley               | Senior | Forward    |
-| Alexander Poitan | Valley               | Junior | Goalkeeper |
-| Cael Leach       | Johnston             | Junior | Midfield   |
-| Ethan Sigurdsson | Ames                 | Senior | Forward    |
-| Jack Dancer      | Iowa City High       | Senior | Defender   |
-| Esai Vasquez     | Pleasant Valley      | Junior | Midfield   |
-| Landon Potts     | Bettendorf           | Senior | Midfield   |
-| Landen Steffy    | Waukee Northwest     | Senior | Defender   |
-| Liam Teghanemt   | Iowa City West       | Senior | Midfield   |
-| Dylan Gloviak    | Ankeny               | Senior | Defender   |
-| Max Cassidy      | Linn-Mar             | Senior | Midfield   |
-| Kadin Nguyen     | Johnston             | Senior | Forward    |
-| Ephraim Lunganga | Des Moines Roosevelt | Senior | Forward    |
-| Colton Horn      | Valley               | Senior | Defender   |
-
-# 2025 Boys 4A - Second Team
-
-| Name                    | School               | Grade     | Position   |
-| ----------------------- | -------------------- | --------- | ---------- |
-| Javier Alvarado         | Davenport North      | Junior    | Midfield   |
-| Xavier Keomany          | Des Moines Lincoln   | Sophomore | Midfield   |
-| Cole Skinner            | Southeast Polk       | Junior    | Forward    |
-| Zachary Cuva            | Ames                 | Senior    | Forward    |
-| Colin Moyle             | Cedar Rapids Prairie | Senior    | Defender   |
-| Cal Wahlberg            | Ankeny               | Junior    | Midfield   |
-| John Foth               | Dowling Catholic     | Senior    | Defender   |
-| Christian Gallt         | Ames                 | Senior    | Midfield   |
-| Jackson Nichols-Lindsey | Iowa City High       | Senior    | Defender   |
-| Darius Hulbert          | Pleasant Valley      | Senior    | Forward    |
-| Riley Jones             | Waukee Northwest     | Senior    | Midfield   |
-| Payton Douglas          | Bettendorf           | Junior    | Goalkeeper |
-
-# 2025 Boys 4A - Honorable Mention
-
-| Name             | School               | Grade  | Position   |
-| ---------------- | -------------------- | ------ | ---------- |
-| Brock Brazeau    | Ankeny Centennial    | Junior | Midfield   |
-| Alex Mirsky      | Valley               | Senior | Midfield   |
-| Austin Lundberg  | Ankeny               | Senior | Midfield   |
-| Tate Schendel    | Waukee Northwest     | Junior | Goalkeeper |
-| Danny Rothert    | Dubuque              | Senior | Midfield   |
-| Drew Desmidt     | Cedar Rapids Prairie | Senior | Forward    |
-| Aidin Bajramovic | Waterloo West        | Junior | Forward    |
-| Daniel Fuentes   | Iowa City West       | Senior | Forward    |
-| Caden Lane       | Des Moines Roosevelt | Senior | Goalkeeper |
-| Mitchell Tackney | Dubuque Hempstead    | Senior | Midfield   |
+| Name                 | School                    | Grade     | Position   |
+| -------------------- | ------------------------- | --------- | ---------- |
+| Sophia Kephart       | Ankeny                    | Junior    | Defense    |
+| Addison Cohrs        | Council Bluffs Lincoln    | Junior    | Defense    |
+| Suhailey Romo        | Muscatine                 | Senior    | Defense    |
+| Jasmin Aguilar-      | Maldonado Sioux City East | Junior    | Defense    |
+| Chase Buckheister    | Cedar Rapids Kennedy      | Freshman  | Forward    |
+| Allissa Baumbach     | Council Bluffs Lincoln    | Junior    | Forward    |
+| Sloane Moeller       | Davenport Central         | Sophomore | Forward    |
+| Sofia Fuentes        | Iowa City West            | Freshman  | Forward    |
+| Alexis Montgomery    | Cedar Falls               | Junior    | Goalkeeper |
+| Rilyn Breinholt      | Iowa City Liberty         | Senior    | Midfield   |
+| Ziva Spellman        | Des Moines Roosevelt      | Sophomore | Midfield   |
+| Charlotte Carmichael | Dowling Catholic          | Senior    | Midfield   |
+| Chloe Liang          | Johnston                  | Junior    | Midfield   |

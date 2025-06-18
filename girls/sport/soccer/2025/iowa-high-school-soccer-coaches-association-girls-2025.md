@@ -18,21 +18,21 @@
 
 # 2025 Girls 1A - Second Team
 
-| Name              | School                | Grade           | Position   |
-| ----------------- | --------------------- | --------------- | ---------- |
-| Abby Lee          | Bishop Heelan         | Senior          | Goalkeeper |
-| Claudia Lavariega | Bishop Heelan         | Senior          | Defense    |
-| Evelyn Anderson   | Nevada                | Senior          | Defense    |
-| Clara Box         | Mediapolis            | Junior          | Defense    |
-| Shelby Arkulari   | Aplington-Parkersburg | Sophomore       | Defense    |
-| Jozie Payne       | Tri-Center            | Sophomore       | Defense    |
-| Addison Price     | Des Moines Christian  | Junior          | Midfield   |
-| Bailey Mullihan   | Denver                | Junior Midfield |
-| Keira Gehrke      | Denver                | Senior          | Midfield   |
-| Lola Paulson      | Underwood             | Senior          | Midfield   |
-| Cierra Pudenz     | Kuemper Catholic      | Junior          | Forward    |
-| Taylor Davis      | Hudson                | Sophomore       | Forward    |
-| Dru Dorsey        | Assumption            | Senior          | Forward    |
+| Name              | School                | Grade     | Position   |
+| ----------------- | --------------------- | --------- | ---------- |
+| Abby Lee          | Bishop Heelan         | Senior    | Goalkeeper |
+| Claudia Lavariega | Bishop Heelan         | Senior    | Defense    |
+| Evelyn Anderson   | Nevada                | Senior    | Defense    |
+| Clara Box         | Mediapolis            | Junior    | Defense    |
+| Shelby Arkulari   | Aplington-Parkersburg | Sophomore | Defense    |
+| Jozie Payne       | Tri-Center            | Sophomore | Defense    |
+| Addison Price     | Des Moines Christian  | Junior    | Midfield   |
+| Bailey Mullihan   | Denver                | Junior    | Midfield   |
+| Keira Gehrke      | Denver                | Senior    | Midfield   |
+| Lola Paulson      | Underwood             | Senior    | Midfield   |
+| Cierra Pudenz     | Kuemper Catholic      | Junior    | Forward    |
+| Taylor Davis      | Hudson                | Sophomore | Forward    |
+| Dru Dorsey        | Assumption            | Senior    | Forward    |
 
 # 2025 Girls 1A - Honorable Mention
 
